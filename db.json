@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "name": "Kristi Purdy",
+      "id": 1
+    },
+    {
+      "name": "Janie Weissnat",
+      "id": 2
+    },
+    {
+      "name": "Ted Marks",
+      "id": 3
+    },
+    {
+      "name": "Mr. James Stokes",
+      "id": 4
+    },
+    {
+      "name": "Nick Trantow",
+      "id": 5
+    },
+    {
+      "name": "Lynn Goodwin",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Gorgeous Frozen Towels",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Cotton Pizza",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Generic Frozen Tuna",
+      "id": 3
+    },
+    {
+      "userId": 6,
+      "title": "Oriental Granite Car",
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=6407609145884672",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/mVCJBNV/640/480",
+      "id": 4
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/7OLf2yx/640/480",
+      "id": 7
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/640/480?lock=407430506741760",
+      "id": 8
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/640/480?lock=2969992951758848",
+      "id": 9
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/640/480?lock=1477608487256064",
+      "id": 10
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/640/480?lock=6163152473423872",
+      "id": 11
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/wg1L6XpSx/640/480",
+      "id": 12
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/HdVfTt/640/480",
+      "id": 13
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=1632888330125312",
+      "id": 14
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/cZZmMYp27c/640/480",
+      "id": 15
+    }
+  ]
+}
